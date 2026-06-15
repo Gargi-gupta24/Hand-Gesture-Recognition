@@ -38,5 +38,13 @@ The system utilizes a **Convolutional Neural Network (CNN)** for gesture classif
 * Real-time AI application development
 * Model training, evaluation, and deployment
 
+## How to Run
+* Clone the repository.
+* Install the required libraries: pip install tensorflow opencv-python numpy matplotlib
+* Train the model: python train.py
+* Test the model: python test.py
+* Run real-time gesture recognition: python webcam.py
+* Predict using an image: python predict.py
+  
 ## 👩‍💻 Author
 **Gargi Gupta**
